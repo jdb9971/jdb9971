@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Debayan :)
-- 👀 I’m interested in Core Networking.
-- 🌱 I’m currently learning CCNA ( Cisco Certified Network Associate) & Python.
+- 👀 I am a CLoud cum DevOps engineer.
+- 🌱 AWS Solution Architect.
 - 📫 How to reach me ... Mail me at joydebayan9971@gmail.com
 
 <!---
